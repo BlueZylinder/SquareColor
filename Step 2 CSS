@@ -1,0 +1,27 @@
+Here is everything about the Style ;D
+
+
+
+
+
+
+
+
+
+
+Below is the full copy paste code 
+--------------------------------------------
+
+.color-holder {
+    width: 400px;     // Here you can set the width of the Box
+    height: 400px;    //  Here you can set the height of the box
+    background-color: yellow;   // here you can set the background-color
+    margin-top: 20px;   // Here you can set how much space you want on top of the box
+    margin-bottom: 25px;    // Here you can set how much space you want on the bottom of the box
+    border: 9px dotted pink //    Here you can set the border color / style 
+  }
+.toggle-color {
+  background-color: blue;   // Here you can select what color the button should toggle on the box
+}
+
+--------------------------------------------
