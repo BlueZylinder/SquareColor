@@ -1,0 +1,17 @@
+Hello 
+In this tutorial im gonna show you how to make a square / background that can change color based upon a button click 
+
+SETP 1 HTML / begin at line 6
+
+-------------------------------------------------------------------------
+
+ <div id="color-holder" class="color-holder">
+
+</div>
+
+<button type="button" onclick="clickColor()">Change color</button>
+
+--------------------------------------------------------------------------
+
+This code will make a div with the id color-holder
+And it will also make a button under the box When clicked will change the color / not yet defined
