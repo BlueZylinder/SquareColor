@@ -1,0 +1,14 @@
+Here you see the Java Code 
+
+
+
+------------------------------------
+
+
+  function clickColor() {
+    var element = document.getElementById("color-holder");            // just the id on what square the button should target
+    //element.style.backgroundColor = "blue";                         // The javascript code here you can select the background color
+    element.classList.toggle("toggle-color");                         // Dont change just for the function of the button
+  }
+
+------------------------------------
